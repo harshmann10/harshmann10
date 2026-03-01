@@ -94,6 +94,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshmann10&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshmann10/harshmann10/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshmann10/harshmann10/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harshmann10/harshmann10/output/github-snake.svg"/>
+</picture>
+
 </div>
 
 ---
