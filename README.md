@@ -11,8 +11,6 @@
   <a href="mailto:harshmann8008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshmann10&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -29,13 +27,10 @@
 ## 💼 Experience
 
 **🏢 Software Developer Intern — Design Avenue** *(Aug 2025 – Present)*
-- Architecting core modules for **ChemDoc** & **HRMS** using MERN stack
+- Architecting scalable modules for **ChemDoc** & **HRMS** using MERN stack
 - Built a comprehensive **GRC platform** with Role-Based Access Control (RBAC) & automated workflows
 - Implemented **RAG features** for enhanced platform intelligence
 - Developed secure REST APIs & reusable React + Tailwind components
-
-**☕ Java Developer Intern — Codsoft** *(Sep 2023 – Oct 2023)*
-**🌐 Web Developer Intern — The Spark Foundation** *(Nov 2022 – Dec 2022)*
 
 ---
 
@@ -43,10 +38,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[DevTinder](https://github.com/harshmann10)** 🔥 | Full-stack developer matching platform with real-time chat & payments | React · Redux · Node · MongoDB · Socket.io · Razorpay |
-| **[AI Chat TOC](https://github.com/harshmann10)** 🧩 | Browser extension adding ToC sidebar to ChatGPT, Claude, Gemini, Perplexity & Grok | JS · WebExtensions API · DOM |
-| **[Pixel Blog](https://github.com/harshmann10)** ✍️ | High-performance blogging engine with rich-text editor & auth | React · Appwrite · TinyMCE · Redux |
-| **[Web Music Player](https://github.com/harshmann10)** 🎵 | Custom audio player with playlist management & keyboard controls | HTML · CSS · JavaScript |
+| **[DevTinder](https://github.com/harshmann10/DevTinder-frontend)**  | Full-stack developer matching platform with real-time chat & payments | React · Redux · Node · MongoDB · Socket.io · Razorpay |
+| **[AI Chat TOC](https://github.com/harshmann10/AI-Chat-TOC)**  | Browser extension adding ToC sidebar to ChatGPT, Claude, Gemini, Perplexity & Grok | JS · WebExtensions API · DOM |
+| **[Pixel Blog](https://github.com/harshmann10/PixelBlog)**  | High-performance blogging engine with rich-text editor & auth | React · Appwrite · TinyMCE · Redux |
+| **[Web Music Player](https://github.com/harshmann10/music-player)**  | Custom audio player with playlist management & keyboard controls | HTML · CSS · JavaScript |
 
 ---
 
@@ -83,7 +78,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ---
