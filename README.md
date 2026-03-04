@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Harsh Mann 👋
-### Full Stack Developer (MERN)
+### Full Stack Developer | Building Scalable Web Applications
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Open+to+Startup+Opportunities+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;When+Not+Coding%2C+I'm+Gaming+🎮)](https://git.io/typing-svg)
 
 <p>
   <a href="https://harshmann.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -17,31 +17,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **Software Developer Intern @ Design Avenue** — Building GRC & HRMS platforms with MERN stack, RBAC, and RAG features
+- 🏢 **Software Developer @ Design Avenue** — Building GRC & HRMS platform using the MERN stack, RBAC, and AI-powered features
 - 🚀 Passionate about **real-world production applications** with scalable backends and polished UIs
 - 🧠 Deep interest in **system design, microservices, and AI-integrated products**
-- 📫 Open to full-stack opportunities (startup-friendly 🚀)
-
----
-
-## 💼 Experience
-
-**🏢 Software Developer Intern — Design Avenue** *(Aug 2025 – Present)*
-- Architecting scalable modules for **ChemDoc** & **HRMS** using MERN stack
-- Built a comprehensive **GRC platform** with Role-Based Access Control (RBAC) & automated workflows
-- Implemented **RAG features** for enhanced platform intelligence
-- Developed secure REST APIs & reusable React + Tailwind components
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **[DevTinder](https://github.com/harshmann10/DevTinder-frontend)**  | Full-stack developer matching platform with real-time chat & payments | React · Redux · Node · MongoDB · Socket.io · Razorpay |
-| **[AI Chat TOC](https://github.com/harshmann10/AI-Chat-TOC)**  | Browser extension adding ToC sidebar to ChatGPT, Claude, Gemini, Perplexity & Grok | JS · WebExtensions API · DOM |
-| **[Pixel Blog](https://github.com/harshmann10/PixelBlog)**  | High-performance blogging engine with rich-text editor & auth | React · Appwrite · TinyMCE · Redux |
-| **[Web Music Player](https://github.com/harshmann10/music-player)**  | Custom audio player with playlist management & keyboard controls | HTML · CSS · JavaScript |
+- 📫 Open to full-stack opportunities
+- 🎮 Outside of coding, I enjoy playing video games and exploring new tech tools
 
 ---
 
