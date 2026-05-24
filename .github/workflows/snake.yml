@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * 0"
   workflow_dispatch:
 
-# Required permissions for native GitHub Pages deployments
 permissions:
   contents: read
   pages: write
@@ -25,12 +24,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
-          path: 'dist'
-          
+          path: dist
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
