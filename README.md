@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshmann10&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshmann10&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://harshmann10.github.io/harshmann10/github-snake-dark.svg"/>
