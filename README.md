@@ -10,9 +10,6 @@
   <a href="https://harshmann.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://harshmann.vercel.app/resume" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4F46E5?style=for-the-badge&logo=googledocs&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/harsh-mann01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
