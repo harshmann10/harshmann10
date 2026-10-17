@@ -24,43 +24,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **Software Developer @ Design Avenue**, engineering full-stack modules and autonomous AI agents for enterprise Agentic GRC platform.
-- 🤖 Building **production RAG pipelines** — structural chunking, dense vector search, BM25 hybrid retrieval, and citation-enforced LLM responses.
-- 🏗 Architecting **scalable backend systems**, modular REST APIs, and real-time Socket.io architectures on the MERN stack.
-- 🧩 Creator of **[AI Chat TOC](https://github.com/harshmann10/AI-Chat-TOC)** (500+ active users across Chrome, Edge, and Firefox) and **[ContextRAG](https://github.com/harshmann10/ContextRAG)**.
-- 🎮 Outside of engineering, I enjoy competitive gaming and exploring emerging AI architectures.
-
----
-
-## 🛠 Tech Stack
-
-### AI / Retrieval & Cloud
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![MongoDB Vector Search](https://img.shields.io/badge/Vector_Search-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### Frontend & Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- 🏢 **Software Developer @ Design Avenue**, building full-stack features and AI agents for an enterprise GRC platform.
+- 🤖 Building **production RAG pipelines** involving structural chunking, dense vector search, BM25 hybrid retrieval, and citation-grounded LLM responses.
+- 🏗️ Designing **scalable backend systems**, modular REST APIs, and real-time applications using Socket.io and the MERN stack.
+- 🧩 **Building developer tools:** Creator of [AI Chat TOC](https://github.com/harshmann10/AI-Chat-TOC) (**500+ users**) and [Antigravity Telemetry](https://github.com/harshmann10/Antigravity-Telemetry) (**500+ downloads across VS Code Marketplace and Open VSX**). Also exploring AI retrieval systems with [ContextRAG](https://github.com/harshmann10/ContextRAG).
+- 🎮 Outside of coding, I enjoy competitive gaming and exploring new AI architectures.
 
 ---
 
